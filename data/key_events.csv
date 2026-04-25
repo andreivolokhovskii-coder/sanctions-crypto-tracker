@@ -1,0 +1,11 @@
+date,event,description,source
+2019-01-01,Garantex Founded,Garantex begins operating as Russian crypto exchange,Public records
+2022-04-05,Garantex OFAC Designation,OFAC adds Garantex Europe OÜ to SDN list — processing $100M+ in illicit transactions,OFAC SDN 20220405
+2022-08-08,Hydra Darknet Action,Related takedown — Garantex flagged as Hydra counterparty,OFAC 20220808
+2023-03-01,Estonian FIU Action,Estonian Financial Intelligence Unit revokes Garantex license,Estonian FIU
+2025-03-06,Garantex Shutdown,International operation with US Secret Service shuts down Garantex,DOJ / FinCEN
+2025-03-10,Grinex Launches,Grinex appears — same interface same backend same team registered in Kyrgyzstan,On-chain / public reports
+2025-08-14,Grinex + A7A5 OFAC Sanctions,OFAC designates Grinex Old Vector (A7A5 issuer) Mendeleev Karavatsky Mira Serda,OFAC SDN SB0225
+2025-08-14,A7A5 destroyBlackFunds,$405M A7A5 tokens burned/destroyed following sanctions pressure,On-chain Tron data
+2025-12-31,A7A5 Hits $93B Annual Volume,A7A5 processes ~$93 billion in transactions during 2025 (~1/3 Russia import budget),Chainalysis / TRM Labs estimates
+2026-04-16,Grinex Hack / Collapse,~$13.74M USDT stolen from ~70 Grinex/TokenSpot addresses converted to 45.9M TRX via SunSwap,TRM Labs / Chainalysis / Elliptic

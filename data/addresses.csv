@@ -1,0 +1,56 @@
+address,chain,entity,label,category,source,date_added,notes
+0x7FF9cFad3877F21d41Da833E2F775dB0569eE3D9,ethereum,Garantex Europe OÜ,Garantex Hot Wallet,exchange,OFAC SDN 2022-04-05,2022-04-05,Primary ETH address listed in original OFAC designation
+3Lpoy53K625zVeE47ZasiG5jGkAxJ27kh1,bitcoin,Garantex Europe OÜ,Garantex BTC Wallet,exchange,OFAC SDN 2022-04-05,2022-04-05,BTC address from OFAC April 2022 designation
+3E6ZCKRrsdPc35chA9Eftp1h3DLW18NFNV,bitcoin,Garantex Europe OÜ,Garantex BTC/USDT Wallet,exchange,OFAC SDN 2022-04-05,2022-04-05,Secondary BTC address from OFAC April 2022 designation
+0x6fA0BE17e4beA2fCfA22ef89BF8ac9aab0AB0fc9,ethereum,Old Vector (Kyrgyzstan),A7A5 Token Contract,stablecoin_contract,OFAC SDN 2025-08-14 / Etherscan verified,2025-08-14,Ruble-pegged stablecoin ERC-20 contract — $93B volume in 2025
+0x0d57436f2d39c0664c6f0f2e349229483f87ea38,ethereum,Old Vector (Kyrgyzstan),wA7A5 Wrapped Token Contract,stablecoin_contract,Etherscan verified,2025-08-14,Wrapped A7A5 on Ethereum
+TLeVfrdym8RoJreJ23dAGyfJDygRtiWKBZ,tron,Old Vector (Kyrgyzstan),A7A5 Token Contract (Tron),stablecoin_contract,TronScan verified,2025-01-01,Primary A7A5 TRC-20 contract on Tron — bulk of $93B volume
+TH9kgjfrKeTNeyXtDKvxCXZ1dVKr7neKVa,tron,Unknown (Hack Attacker),Grinex Hack Consolidation Address,hacker,On-chain / Hackread / multiple analysts April 2026,2026-04-16,Received 45.89M TRX after SunSwap swap from 70 drained Grinex+TokenSpot wallets
+TASWbk6X1wiTku5TMmMQYqYFvshVEtfJy8,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list — entity: Garantex or Grinex
+TAYhjpL8pPs8T84FSM329nffQpc6jD8GBM,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TAoLw5yD5XUoHWeBZRSZ1ExK9HMv2CiPvP,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TBHTJqAy4DhHhmT3dNceJYNRz4SdLofLre,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TBcLqqqyZjNj1ptuXFgj5H768NhNU5nDyn,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TC8axQvzJEVR3NKN6mZnJtGy7537GEmh38,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TCA9vmjsYw9MtPKEwRBtGhKFRfr4CLxJAv,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TCFD8N3vM5b4Gr5f1kkajQsodRVNyyAq1d,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TCu5onCzXuqxjvVzdB2tR4FLuF66d4yRqf,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TCzq6m2zxnQkrZrf8cqYcK6bbXQYAfWYKC,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TDFtJtyLPgN3oWUoHh23oJox3T5V5nR11K,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TDe2UNAvuUnTbbDo7518eMe3TXN5qJW8Ft,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TEEYCuGDyeNkuDj4u6GQRXxXo3Nh29r2vP,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TEcuHDQthTmULe8fFLUccBPpjfXaTmJuuD,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TFdTr9C3BqQrzKBXqSxJfAZFTh8UwBAfSg,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TFwjPScaJRCbSWVAywE1S1WgaUgSnyYUbD,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TGXE9dGWawjfd3xqFSho1h1bRbRv9wUGrF,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TGckaiamj5NzaYx6Qp6Zu7kahuHArzUo99,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TGsNFrgWfbGN2gX25Wcf8oTejtxtQkvmEx,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TJkBr9TZ1xBeJoF7RNWqyEMbYqVJ6fXXHR,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TK17wfSPp32RWrnzZPrGpv7TxdNFvvvE2s,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TL1k1U6SHohxBqb68kCodxHc9y2LXoDSep,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TLvuvpfBKdxddxSsJefeiGCe9eVY8HUroE,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TMStbg5fgb4uTV7fK1gEYF9hKAzP3siPsG,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TMuCgBejD5RsNANZdjGtaM3YyKGNgDoy7N,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNDjh6WGLYyWmkh8vfu42bXVHUqFNQ3rDq,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNTFhgFoKH4srBMiWbfrVFqP2AThSmdwf1,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNZxGWCwvsHr6JxQxzoeDXV597Yf7Zb7nV,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNiq9AXBp9EjUqhDhrwrfvAA8U3GUQZH81,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNmRfnSUXZoWWzxcDDbf95eGQYXt1mJDt8,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNrX2FwrHKoo4XACGkmSzqeK4pdnKYn6Z7,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TNuA5CQ6LB4jTHoNrjEeQZJmcmhQuHMbQ7,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TPDLpXxPcaSsupEZ3yrVksmNkYP5SLeKxu,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TPJ1JNX98MJpHueBJeF5SVSg85z8mYg1P1,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TQ5H49Wz3K57zNHmuXVp6uLzFwitxviABs,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TRBACioxdrdsYEZHvJWiUDZcMdBPpEe5Ub,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TRakpsE1mZjCUMNPyozR4BW2ZtJsF7ZWFN,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TSxAAo67VTDgKT537EVXxdogkJtk9c6ojz,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TTKnV2S1295UrPr7N67Tp9ykNL7xX2Z4Uj,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TTS9o5KkpGgH8cK9LofLmMAPYb5zfQvSNa,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TTUDyVhhpCC1xJoPmWzdjLAzeoPwbSABdr,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TTiDLWE6fZK8okMJv6ijg42yrH6W2pjSr9,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TU4tDFRvcKhAZ1jdihojmBWZqvJhQCnJ4F,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TVNyvx2astt2AB1Us67ENjfMZeEXZeiuu6,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TXhf9nU9bjo1j9z5qEesHdr6gtdndfnA4T,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TYDUutYN4YLKUPeT7TG27Yyqw6kNVLq9QZ,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TYeQD2VddTZ9NkFkAnT9DD8cUGetGUQZB2,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
+TZB4NrX7k9ZsV6PRc1GigAztLL8WHpLvwP,tron,OFAC-Sanctioned (entity TBD),Sanctioned Tron Wallet,exchange,OFAC SDN (verify entity via SDN XML),2025-08-14,From OFAC TRX sanctioned address list
