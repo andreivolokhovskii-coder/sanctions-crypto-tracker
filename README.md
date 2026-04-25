@@ -25,6 +25,24 @@ Three interconnected entities that form Russia's shadow crypto economy:
 
 **[dune.com/desertear/sanctions-crypto-tracker](https://dune.com/desertear/sanctions-crypto-tracker)**
 
+![Total Tracked Volume](screenshots/Total%20Tracked%20Volume.png)
+
+![Daily Flow Timeline](screenshots/Daily%20Flow%20Timeline.png)
+
+![Fund Flow](screenshots/Fund%20Flow_%20Sources%20%E2%86%92%20Cluster%20%E2%86%92%20Destinations.png)
+
+![Top Counterparties](screenshots/Top%20Counterparties%20by%20Volume.png)
+
+![A7A5 Activity](screenshots/A7A5%20Ruble%20Stablecoin%20Activity.png)
+
+![A7A5 Cumulative](screenshots/Cumulative%20A7A5%20Ruble%20Stablecoin%20Activity.png)
+
+![Grinex Hack](screenshots/Grinex%20Hack_%20Hourly%20USDT%20Drain%20%28Apr%2015%E2%80%9317%2C%202026%29.png)
+
+![Top 50 Whales](screenshots/Top%2050%20Whale%20Wallets.png)
+
+![Cluster Expansion](screenshots/New%20Counterparty%20Wallets%20per%20Week.png)
+
 ### Charts
 
 | # | Chart | Type | Description |
