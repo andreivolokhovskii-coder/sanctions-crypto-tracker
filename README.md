@@ -4,7 +4,7 @@
 
 > Chainalysis sells this analysis for $50k+/year. This is the open-source version.
 
-[![Dune Dashboard](https://img.shields.io/badge/Dune-Live%20Dashboard-orange)](https://dune.com/desertear/sanctions-crypto-tracker)
+[![Dune Dashboard](https://img.shields.io/badge/Dune-Live%20Dashboard-orange)](https://dune.com/desertear/sanctions-crypto-tracker-garantex-grinex-a7a5)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -23,7 +23,7 @@ Three interconnected entities that form Russia's shadow crypto economy:
 
 ## Live Dashboard
 
-**[dune.com/desertear/sanctions-crypto-tracker](https://dune.com/desertear/sanctions-crypto-tracker)**
+**[dune.com/desertear/sanctions-crypto-tracker-garantex-grinex-a7a5](https://dune.com/desertear/sanctions-crypto-tracker-garantex-grinex-a7a5)**
 
 ![Total Tracked Volume](screenshots/Total%20Tracked%20Volume.png)
 
